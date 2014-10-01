@@ -5,4 +5,7 @@ public class Test1 {
 		System.out.println("Hi lads!!!");
 	}
 
+	public void myMethod(){
+		//Do something awesome
+	}
 }
