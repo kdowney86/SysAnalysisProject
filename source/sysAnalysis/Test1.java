@@ -8,4 +8,6 @@ public class Test1 {
 	public void myMethod(){
 		//Do something awesome
 	}
+	
+	//I'll wipe that
 }
