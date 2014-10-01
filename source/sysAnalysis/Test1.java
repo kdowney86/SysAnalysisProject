@@ -1,5 +1,5 @@
 package sysAnalysis;
 
-public class main {
+public class Test1 {
 
 }
