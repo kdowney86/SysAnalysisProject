@@ -5,7 +5,7 @@ public class Test1 {
 		System.out.println("Hi lads!!!");
 	}
 
-	public void myFuckingMethod(){
+	public void myDickMethod(){
 		//Do something fucking awesome
 	}
 	
