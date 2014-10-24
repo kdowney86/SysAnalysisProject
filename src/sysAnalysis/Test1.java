@@ -8,6 +8,8 @@ public class Test1 {
 
 	public void myDickMethod(){
 		//Do something fucking awesome
+		
+		int mytTest;
 	}
 	
 	//I'll wipe that
