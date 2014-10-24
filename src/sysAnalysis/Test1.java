@@ -6,7 +6,7 @@ public class Test1 {
 	}
 
 
-	public void myDickMethod(){
+	public void myMethod(){
 		//Do something fucking awesome
 		
 		int mytTest;
